@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Alsanad Sheikh 👋 <br> Alsanad-Opium</h1>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alsanad-Opium)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alsanad-Opium&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 <p align="center">
 🎓 Diploma in AI & ML (Government Polytechnic Nagpur) <br>
 💻 Full Stack Developer + ML Deployment Enthusiast <br>
@@ -37,7 +40,7 @@
 
 ### 🧠 Backend & Frameworks
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="55" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="55" />
 </div>
@@ -50,8 +53,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/mongodb-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/postgres-original.svg" height="55" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
 </div>
 
 ---
