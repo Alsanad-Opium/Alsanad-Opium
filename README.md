@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alsanad Sheikh 👋 <br> Alsanad-Opium</h1>
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alsanad-Opium)
 <p align="center">
 🎓 Diploma in AI & ML (Government Polytechnic Nagpur) <br>
 💻 Full Stack Developer + ML Deployment Enthusiast <br>
